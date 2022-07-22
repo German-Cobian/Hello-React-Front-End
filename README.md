@@ -1,70 +1,58 @@
-# Getting Started with Create React App
+![](https://img.shields.io/badge/Microverse-blueviolet)
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Hello-React-Api
 
-## Available Scripts
+A project to integrate a React-Redux front-end with a Rails back-end.
 
-In the project directory, you can run:
+## BUilt with
 
-### `npm start`
+* HTML
+* CSS
+* JavaScript
+* React
+* Redux
+* Github workflow
+* Linters(Lighthouse, stylelint, Webhint, eslint)
+* [Back-end](https://github.com/German-Cobian/Hello-Rails-Back-End)
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+### Setup and Install
 
-### `npm test`
+* Open your terminal - Windows: `Win + R`, then type `cmd` | Mac: `Command + space`, then type `Terminal`
+* Navigate to a directory of your choosing using the `cd` command
+* Run this command in your OS terminal: `git@github.com:German-Cobian/Hello-React-Front-End.git` to get a copy of the project
+* Navigate to the project's directory using the `cd` command
+* In the clone folder, run `npm install`
+* To fire up the server run `npm start`
+* In order for this project to work you need to also be running the backend server. After starting the backend server,
+  run  `npm start` to start the live server.
+* Visit `http://localhost:3000/` in your browser to get into the app
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## Author
 
-### `npm run build`
+👤 **German Cobian**
+* GitHub: [@German Cobian](https://github.com/German-Cobian)
+* Twitter: [@GermanCobian2](https://twitter.com/GermanCobian2)
+* LinkedIn: [@German Cobian](https://www.linkedin.com/in/german-cobian/)
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## 🤝 Contributing
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+Contributions, issues, and feature requests are welcome!
 
-### `npm run eject`
+Feel free to check the [issues page](https://github.com/German-Cobian/Hello-React-Front-End/issues).
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+## Show your support
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+Give a ⭐️ if you like this project!
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
 
-## Learn More
+## Acknowledgments
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+Guidelines for this project supplied by [Microverse](https://github.com/microverseinc/curriculum-rails/blob/main/connect-frontend-frameworks/hello_world_two_apps.md)
 
-To learn React, check out the [React documentation](https://reactjs.org/).
 
-### Code Splitting
+## 📝 License
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+[MIT licensed](https://github.com/German-Cobian/Hello-React-Front-End/blob/main/LICENSE).
